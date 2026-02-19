@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Larger Than Life (Official Video)",
+  "base_artist": "Backstreet Boys",
+  "createdAt": "2026-02-19T14:48:15.064073Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Larger Than Life",
+      "artist": "Lita Ford",
+      "has_synced": true,
+      "path": "select/01_Larger_Than_Life_Lita_Ford.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Larger Than Life",
+      "artist": "Lita Ford",
+      "has_synced": false,
+      "path": "select/02_Larger_Than_Life_Lita_Ford.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Larger Than Life (Live)",
+      "artist": "Lita Ford",
+      "has_synced": false,
+      "path": "select/03_Larger_Than_Life_(Live)_Lita_Ford.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Larger Than Life",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/04_Larger_Than_Life_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Larger Than Life",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/05_Larger_Than_Life_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Larger Than Life",
+      "artist": "Sonata Arctica",
+      "has_synced": true,
+      "path": "select/06_Larger_Than_Life_Sonata_Arctica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Larger Than Life",
+      "artist": "Kiss",
+      "has_synced": false,
+      "path": "select/07_Larger_Than_Life_Kiss.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Larger Than Life",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/08_Larger_Than_Life_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Larger Than Life",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/09_Larger_Than_Life_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Larger Than Life",
+      "artist": "Richie Kotzen",
+      "has_synced": true,
+      "path": "select/10_Larger_Than_Life_Richie_Kotzen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Larger Than Life",
+      "artist": "Holly Cole",
+      "has_synced": false,
+      "path": "select/11_Larger_Than_Life_Holly_Cole.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Larger Than Life",
+      "artist": "Gov't Mule",
+      "has_synced": true,
+      "path": "select/12_Larger_Than_Life_Gov't_Mule.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Larger Than Life",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/13_Larger_Than_Life_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Larger Than Life",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/14_Larger_Than_Life_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Larger Than Life",
+      "artist": "Backstreet Boys",
+      "has_synced": false,
+      "path": "select/pl_01_Larger_Than_Life_Backstreet_Boys.txt"
+    }
+  ]
+}
