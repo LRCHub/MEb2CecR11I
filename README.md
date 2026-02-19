@@ -1,0 +1,44 @@
+# Backstreet Boys – Larger Than Life (Official Video)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:18.76] I may run and hide when you're screamin' my name, alright
+[00:27.47] But let me tell you now
+[00:29.35] There are prices to fame, alright
+[00:36.52] All of our time's spent in flashes of light
+[00:58.02] 
+[00:45.48] All you people can't you see, can't you see
+[00:49.71] How your love's affecting our reality
+[00:54.03] Every time we're down, you can make it right
+[00:58.24] And that makes you larger than life
+[01:15.74] 
+[01:05.04] Alright, lookin' at the crowd
+[01:09.01] And I see your body sway, c'mon
+[01:15.86] Wishin' I could thank you in a different way, c'mon
+[01:25.08] 'Cause all of your time spent keeps us alive
+[01:47.08] 
+[01:34.24] All you people can't you see, can't you see
+[01:38.56] How your love's affecting our reality
+[01:42.96] Every time we're down, you can make it right
+[01:47.20] And that makes you larger than life
+[02:04.70] 
+[01:55.12] Larger than life
+[02:04.77] Yeah,All of your time spent, keeps us alive...
+[02:27.77] 
+[02:36.28] Everytime we're down, you can make it right
+[02:57.78] 
+[02:41.06] All you people can't you see, can't you see
+[02:45.26] How your love's affecting our reality
+[02:49.71] Every time we're down, you can make it right
+[02:53.68] And that makes you larger than life
+[03:11.18] 
+[02:59.33] Yeah, every time we're down
+[03:03.60] Yeah, you can make it right
+[03:08.28] Yeah, that's what makes you larger than life, yeah, yeah
+[03:16.65] All you people can't you see, can't you see?
+[03:20.82] How your love's affecting our reality
+[03:25.10] Every time we're down, you can make it right
+[03:29.35] And that makes you larger, that makes you larger
+[03:38.72] That makes you larger than life
+```
